@@ -86,10 +86,6 @@ header #branding h1{
   text-decoration: none;
 }
 
-header #branding h1 a{
-  text-decoration: none;
-}
-
 header nav{
   float: right;
   margin-top: 10px;
