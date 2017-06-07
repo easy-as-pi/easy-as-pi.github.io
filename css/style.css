@@ -68,8 +68,7 @@ header nav ul li ul li{
 
 header nav ul li:hover ul li{
   display: block;
-  height: 100px;
-  float: left;
+  float: none;
 }
 
 header #branding{
