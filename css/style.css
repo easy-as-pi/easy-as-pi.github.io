@@ -42,7 +42,7 @@ header{
   border-bottom: #ff0000 3px solid;
 }
 
-header a{
+header ul a{
   color:#ffffff;
   text-decoration: none;
   text-transform: uppercase;
