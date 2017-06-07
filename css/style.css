@@ -73,6 +73,7 @@ header nav ul li:hover ul li{
 
 header #branding{
   float: left;
+  text-decoration: none;
 }
 
 header #branding h1{
