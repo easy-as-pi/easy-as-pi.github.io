@@ -73,6 +73,7 @@ header nav ul li ul li{
 header nav ul li:hover ul li{
   display: block;
   float: none;
+  text-align : center;
 }
 
 header #branding{
