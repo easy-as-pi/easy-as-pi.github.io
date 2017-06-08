@@ -195,9 +195,8 @@ article#main-col{
   border: 3px solid black;
   color: #ffffff;
   width: 30%;
-  padding-left: 40px;
-  padding-right: 40px;
-  padding-bottom: 50px;
+  margin-top: 40px;
+  padding: 10px;
 }
 
 footer{
