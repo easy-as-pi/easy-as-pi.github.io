@@ -190,12 +190,15 @@ article#main-col{
   width:65%;
 }
 
+#ArenaBoxes {
+  margin-top: 40px;
+}
+
 #ArenaBoxes .arenabox{
   float: right;
   border: 3px solid black;
   color: #ffffff;
   width: 30%;
-  margin-top: 40px;
   padding: 10px;
 }
 
