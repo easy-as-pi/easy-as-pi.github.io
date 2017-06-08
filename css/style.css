@@ -13,7 +13,7 @@ body {
 }
 
 a {
- text-decoration:none; 
+ text-decoration:none;
 }
 
 ul {
@@ -188,6 +188,12 @@ aside#sidebar{
 article#main-col{
   float: left;
   width:65%;
+}
+
+#ArenaBoxes .arenabox{
+  float: left;
+  border: 3px solid black;
+  color: #ffffff;
 }
 
 footer{
