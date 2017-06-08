@@ -194,6 +194,10 @@ article#main-col{
   float: right;
   border: 3px solid black;
   color: #ffffff;
+  width: 30%;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
 }
 
 footer{
