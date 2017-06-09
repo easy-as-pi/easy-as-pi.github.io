@@ -195,7 +195,7 @@ article#main-col{
 }
 
 #ArenaBoxes .arenabox{
-  float: right;
+  float: left;
   border: 3px solid black;
   color: #ffffff;
   width: 20%;
