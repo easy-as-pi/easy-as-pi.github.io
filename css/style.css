@@ -198,11 +198,11 @@ article#main-col{
   float: right;
   border: 3px solid black;
   color: #ffffff;
-  width: 30%;
+  width: 23%;
   padding: 10px;
-  margin-left: 15px;
-  margin-right: 15px;
-  margin-bottom: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 30px;
   text-align: center;
 }
 
