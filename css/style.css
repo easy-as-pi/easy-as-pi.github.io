@@ -66,15 +66,6 @@ header ul li{
   float: left;
 }
 
-header nav ul li ul li{
-  display: none;
-}
-
-header nav ul li:hover ul li{
-  display: block;
-  float: none;
-}
-
 header #branding{
   float: left;
   text-decoration: none;
@@ -116,6 +107,15 @@ header a:hover{
   background-position: center;
   text-align: center;
   color: #ffc04c;
+}
+
+header nav ul li ul li{
+  display: none;
+}
+
+header nav ul li:hover ul li{
+  display: block;
+  float: none;
 }
 
 #showcase h1{
